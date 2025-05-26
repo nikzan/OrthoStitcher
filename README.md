@@ -163,10 +163,10 @@ python OrthoScript.py -i test_data/set_C -o output/panorama_ordered.jpg --direct
 
 Полная и детальная документация по проекту доступна в папке `/docs` репозитория.
 
-- [Подробный обзор проекта](https://www.google.com/url?sa=E&q=docs%2FREADME_Detailed.pdf): Расширенное описание целей, архитектуры и особенностей.
-- [Руководство пользователя](https://www.google.com/url?sa=E&q=docs%2FUser_Manual.pdf): Пошаговые инструкции по использованию программы.
-- [Руководство по установке](https://www.google.com/url?sa=E&q=docs%2FInstallation_Guide.pdf): Детальные шаги по развертыванию программы.
-- [Руководство разработчика](https://www.google.com/url?sa=E&q=docs%2FDeveloper_Guide.pdf): Информация для модификации и расширения кода.
+- [Подробный обзор проекта](docs/README_Detailed.pdf): Расширенное описание целей, архитектуры и особенностей.
+- [Руководство пользователя](docs/User_Manual.pdf): Пошаговые инструкции по использованию программы.
+- [Руководство по установке](docs/Installation_Guide.pdf): Детальные шаги по развертыванию программы.
+- [Руководство разработчика](docs/Developer_Guide.pdf): Информация для модификации и расширения кода.
 
 ## 9. Перспективы развития
 
