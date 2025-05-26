@@ -28,11 +28,6 @@ Thumbs.db
 # Database files
 *.sqlite3
 
-# Output directories and files
-output/
-*.jpg
-*.png
-*.jpeg
 
 # LaTeX artifacts (if you compile .tex files in the main repo folder)
 *.aux
